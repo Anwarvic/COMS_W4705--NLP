@@ -6,7 +6,7 @@ http://www.cs.columbia.edu/~cs4705/
 
 And you can download the whole course as well from this torrent link:
 
-
+http://academictorrents.com/details/8a8f93e18dd6c46c48ee2936ed500b1ff4cc9175
 
 This course contains four different assignments:
 
