@@ -19,4 +19,4 @@ This course contains four different assignments:
 3. Machine Translation.
 4. Global Linear Model.
 
-Each folder of these contains a compressed folder, this folder contains the assignment before solution in case you want to resolve it.
+Each folder of these contains a compressed folder, which contains the assignment before solution in case you want to resolve it.
